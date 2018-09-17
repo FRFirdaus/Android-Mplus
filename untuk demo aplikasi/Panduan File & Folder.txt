@@ -1,0 +1,5 @@
+file arisankita.sql diimport ke dalam database MYSQL
+
+Folder Arisan dimasukkan kedalam xampp/htdocs :
+	file-file PHP sebagai jembatan 
+	penghubung database dengan aplikasi
